@@ -4,7 +4,7 @@ import io.cucumber.java.en.*;
 
 public class DietPlanPage {
 	
-	 
+	//first step 
 	@Given("User is logged on to Dietician website for diets plan page")
 	public void user_is_logged_on_to_dietician_website_for_diets_plan_page() {
 	}
