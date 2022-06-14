@@ -20,5 +20,7 @@ pipeline {
         			cucumber buildStatus: "UNSTABLE",
         			fileIncludePattern: "**/reports.json",
         			jsonReportDirectory: 'target'
+        		  }
+        }	
     }
 }
